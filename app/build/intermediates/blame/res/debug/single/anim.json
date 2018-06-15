@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "F:\\kvswapps\\SmartMessageTracking\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Gopal Reddy\\.android\\build-cache\\f87192ac9df15207d3caa0d91a69895d5cbfb851\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\kvswapps\\SmartMessageTracking\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Gopal Reddy\\.android\\build-cache\\f87192ac9df15207d3caa0d91a69895d5cbfb851\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\kvswapps\\SmartMessageTracking\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Gopal Reddy\\.android\\build-cache\\f87192ac9df15207d3caa0d91a69895d5cbfb851\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "F:\\kvswapps\\SmartMessageTracking\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Gopal Reddy\\.android\\build-cache\\f87192ac9df15207d3caa0d91a69895d5cbfb851\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\kvswapps\\SmartMessageTracking\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Gopal Reddy\\.android\\build-cache\\f87192ac9df15207d3caa0d91a69895d5cbfb851\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\kvswapps\\SmartMessageTracking\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Gopal Reddy\\.android\\build-cache\\f87192ac9df15207d3caa0d91a69895d5cbfb851\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\kvswapps\\SmartMessageTracking\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Gopal Reddy\\.android\\build-cache\\f87192ac9df15207d3caa0d91a69895d5cbfb851\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\kvswapps\\SmartMessageTracking\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Gopal Reddy\\.android\\build-cache\\f87192ac9df15207d3caa0d91a69895d5cbfb851\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\kvswapps\\SmartMessageTracking\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Gopal Reddy\\.android\\build-cache\\f87192ac9df15207d3caa0d91a69895d5cbfb851\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "F:\\kvswapps\\SmartMessageTracking\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Gopal Reddy\\.android\\build-cache\\f87192ac9df15207d3caa0d91a69895d5cbfb851\\output\\res\\anim\\abc_fade_out.xml"
+    }
+]

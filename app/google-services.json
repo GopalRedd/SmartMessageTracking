@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "173842531112",
+    "firebase_url": "https://smartmessagetracking.firebaseio.com",
+    "project_id": "smartmessagetracking",
+    "storage_bucket": "smartmessagetracking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173842531112:android:db841c84026f3f18",
+        "android_client_info": {
+          "package_name": "com.example.dheeraj.smartmessagetracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173842531112-e0i6cnasc16n92mu4e3ulpbr2bcbvq14.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dheeraj.smartmessagetracking",
+            "certificate_hash": "38ab7521c053efe08a6f799b7672395eef4d128c"
+          }
+        },
+        {
+          "client_id": "173842531112-cb5r57b8po82t7ggts1og0b29qf9lae8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg24TA4jPklGz7KaMGj7lyWgU45EIjZe0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173842531112-cb5r57b8po82t7ggts1og0b29qf9lae8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

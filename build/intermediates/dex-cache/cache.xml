@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\kvswapps\SmartMessageTracking\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="83fdd70d33303faa4aa5cf4d89f50b7df75a6820">
+        <dex dex="F:\kvswapps\SmartMessageTracking\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_27611bf83ce21877dcff2e94d38689e2bcb1683b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\kvswapps\SmartMessageTracking\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="F:\kvswapps\SmartMessageTracking\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a45801da71b1d213e66d90a0f12f6fb1093db32a\classes.dex" />
+    </item>
+
+</items>

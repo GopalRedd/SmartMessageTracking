@@ -1,0 +1,7 @@
+#Thu Apr 19 17:09:23 IST 2018
+base.0=F\:\\kvswapps\\SmartMessageTracking\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a45801da71b1d213e66d90a0f12f6fb1093db32a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\kvswapps\\SmartMessageTracking\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_27611bf83ce21877dcff2e94d38689e2bcb1683b\\classes.dex
+base.1=F\:\\kvswapps\\SmartMessageTracking\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_27611bf83ce21877dcff2e94d38689e2bcb1683b
+file.0=F\:\\kvswapps\\SmartMessageTracking\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a45801da71b1d213e66d90a0f12f6fb1093db32a\\classes.dex

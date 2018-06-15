@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">173842531112-cb5r57b8po82t7ggts1og0b29qf9lae8.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://smartmessagetracking.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">173842531112</string>
+    <string name="google_api_key" translatable="false">AIzaSyDg24TA4jPklGz7KaMGj7lyWgU45EIjZe0</string>
+    <string name="google_app_id" translatable="false">1:173842531112:android:db841c84026f3f18</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDg24TA4jPklGz7KaMGj7lyWgU45EIjZe0</string>
+    <string name="google_storage_bucket" translatable="false">smartmessagetracking.appspot.com</string>
+    <string name="project_id" translatable="false">smartmessagetracking</string>
+</resources>
